@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Icee (real name is Ahmed)
 - 👀 I’m interested in Game Development 🎮
 - 🌱 I’m currently learning Embedded Systems
-- 💞️ I’m looking to collaborate on Embedded Projetcs 🤖 & GameDev tools 🪛
+- 💞️ I’m looking to collaborate on Games & Embedded Tools 🪛
 - 📫 You can reach me on Discord: icee24
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 'Icee' is just 'Ice' with an extra 'e'—cool, right? 😅
